@@ -3,7 +3,7 @@
 <p align="center">
   <a target="_blank" href="https://blog.starskim.cn/">Blog</a> •
   <a target="_blank" href="https://twitter.com/Stars_LiYu">Twitter</a> •
-  <a target="_blank" href="https://t.me/stars_kim">Telegram</a> •
+  <a target="_blank" href="https://t.me/stars_kim">Telegram</a>
 </p>
 
 ### Github Stats
