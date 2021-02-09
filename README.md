@@ -16,7 +16,16 @@
 ### Steam playtime leaderboard
 
  <!-- steam-box start -->
- <!-- steam-box end -->
+#### <a href="https://gist.github.com/f597e65861369bea57d95b17f7125dc6" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+💻 Wallpaper Engine                 🕘 201 hrs 3 mins
+🚓 Grand Theft Auto V               🕘 152 hrs 39 mins
+🦾 Cyberpunk 2077                   🕘 68 hrs 32 mins
+🎮 Monster Hunter: World            🕘 67 hrs 15 mins
+🎮 Factorio                         🕘 55 hrs 50 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
 
 ### Blog Posts
 
