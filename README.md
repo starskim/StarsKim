@@ -14,8 +14,10 @@
 </a>
 
 ### 🎮 Steam playtime leaderboard
-
- <!-- steam-box start -->
+<table>
+<tr>
+<td valign="top" width="50%">
+<!-- steam-box start -->
 #### <a href="https://gist.github.com/f597e65861369bea57d95b17f7125dc6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 💻 Wallpaper Engine                 🕘 201 hrs 3 mins
@@ -26,6 +28,9 @@
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+</td>
+</tr>
+</table>
 
 ### Blog Posts
 
