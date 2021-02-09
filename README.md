@@ -13,8 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starskim&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
 </a>
 
-### Steam playtime leaderboard
-
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/f597e65861369bea57d95b17f7125dc6" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
