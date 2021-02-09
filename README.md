@@ -13,27 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starskim&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;">
 </a>
 
-### 🎮 Steam playtime leaderboard
-<table>
-<tr>
-<td valign="top" width="50%">
-  
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/f597e65861369bea57d95b17f7125dc6" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-💻 Wallpaper Engine                 🕘 201 hrs 3 mins
-🚓 Grand Theft Auto V               🕘 152 hrs 39 mins
-🦾 Cyberpunk 2077                   🕘 68 hrs 32 mins
-🎮 Monster Hunter: World            🕘 67 hrs 15 mins
-🎮 Factorio                         🕘 55 hrs 50 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-
-</td>
-</tr>
-</table>
-
 ### Blog Posts
 
 Only the latest **5** articles are displayed here.
