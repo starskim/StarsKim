@@ -32,6 +32,6 @@ jobs:
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
       
-      - name: Commit and push
+      - name: "Update gist"
         run: |-
           ./steam
