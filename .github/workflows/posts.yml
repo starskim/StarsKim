@@ -3,8 +3,8 @@ name: Update blog posts to README
 on:
   schedule:
     - cron: 0 8 * * *
-  push:
-    branches: [ master ]
+  workflow_dispatch:
+
 
 jobs:
   update:
