@@ -26,4 +26,3 @@ Only the latest **5** articles are displayed here.
 <!--END_SECTION:posts-->
 
 **See more on [starskim.cn](https://blog.starskim.cn).**  
-*README.md modify from [renbaoshuo](https://github.com/renbaoshuo/renbaoshuo/blob/master/README.md)*
